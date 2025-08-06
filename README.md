@@ -92,7 +92,7 @@ It combines **real industry insights, AI support, SOPs, and reporting tools** to
 
 ## 🔗 Live Site
 
-👉 [OpStack Landing Page](https://alaaFakhry22.github.io/Ops/)
+👉 [OpStack Landing Page](https://alaafakhry22.github.io/OpStack-Startup-Solutions-/)
 
 ---
 
