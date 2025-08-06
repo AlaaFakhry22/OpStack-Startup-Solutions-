@@ -86,7 +86,7 @@ It combines **real industry insights, AI support, SOPs, and reporting tools** to
 - Accent: `#F9FBFC` (Soft White)  
 
 **Logo Preview:**  
-![OpStack Logo](https://via.placeholder.com/200x60.png?text=OpStack+Logo)  
+![OpStack Logo](https://alaafakhry22.github.io/OpStack-Startup-Solutions-/+Logo)  
 
 ---
 
